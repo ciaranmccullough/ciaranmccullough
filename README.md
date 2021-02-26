@@ -4,10 +4,9 @@ Web Developer from London, England
 
 Specialising in JavaScript, React and Node.js
 
-- 🔭 I’m currently working on ...
-- Gatsby project w/ Wordpress API
-- Open Source project building RESTful API
-- Building UI components w/ React
+- 🔭 I’m currently working with ...
+- Next Js
+- React
 
 Check out my Portfolio for some of my work: https://ciaranmccullough.github.io/
 
