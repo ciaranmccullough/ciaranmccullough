@@ -8,7 +8,6 @@ Specialising in JavaScript, React and Node.js
 - Next Js
 - React
 
-Check out my Portfolio for some of my work: https://ciaranmccullough.github.io/
 
 - 📫 How to reach me: ...
 
